@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, welcome to my profile! 🖖🥳✨
+
+I'm an aspiring Data Scientist with a background in Economics, and this is my creative space 👽🚀. 
+Feel free to collaborate, share advice, or connect with me! 💬
+
+Currently, I'm diligently working on my portfolio to showcase my ideas of utilizing Data Science and Machine Learning tools to solve real-life problems. I hope not to disappoint you with what's in store! 🤖
+
 
 <!--
 **servecinska/servecinska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
